@@ -1,0 +1,9 @@
+<svg id="Mastercard-logo" xmlns="http://www.w3.org/2000/svg" width="18.529" height="11.497" viewBox="0 0 18.529 11.497">
+  <path id="Path" d="M5.012,9.039H0V0H5.012Z" transform="translate(6.758 1.23)" fill="#ff5f00"/>
+  <g id="Group">
+    <path id="Path-2" data-name="Path" d="M2.188,5.749A5.746,5.746,0,0,1,0,10.268a5.723,5.723,0,0,0,9.267-4.52A5.723,5.723,0,0,0,0,1.229a5.746,5.746,0,0,1,2.188,4.52" transform="translate(9.267 11.497) rotate(180)" fill="#eb001b"/>
+  </g>
+  <g id="Group-2" data-name="Group" transform="translate(9.262)">
+    <path id="Path-3" data-name="Path" d="M0,5.749a5.724,5.724,0,0,1,9.267-4.52,5.762,5.762,0,0,0,0,9.039A5.724,5.724,0,0,1,0,5.749" transform="translate(9.267 11.497) rotate(180)" fill="#f79e1b"/>
+  </g>
+</svg>
